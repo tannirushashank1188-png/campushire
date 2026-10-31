@@ -35,3 +35,4 @@ export function SortDropdown({ value, onChange, className }: SortDropdownProps) 
     </div>
   );
 }
+

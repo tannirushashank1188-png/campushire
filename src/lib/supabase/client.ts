@@ -26,3 +26,4 @@ export function getSupabaseClient(): SupabaseClient | null {
 
   return supabaseClient;
 }
+

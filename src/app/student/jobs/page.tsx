@@ -160,3 +160,4 @@ export default function StudentJobsPage() {
     </DashboardLayout>
   );
 }
+

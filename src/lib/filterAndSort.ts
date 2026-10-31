@@ -120,3 +120,4 @@ export const INITIAL_JOB_FILTERS: JobFilterOptions = {
   graduationYears: [],
   status: "all",
 };
+

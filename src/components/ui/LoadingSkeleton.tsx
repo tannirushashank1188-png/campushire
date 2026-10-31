@@ -53,3 +53,4 @@ export function TableRowSkeleton({ cols = 5 }: { cols?: number }) {
     </tr>
   );
 }
+

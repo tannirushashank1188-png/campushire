@@ -482,3 +482,4 @@ export function JobPostingForm({
     </form>
   );
 }
+

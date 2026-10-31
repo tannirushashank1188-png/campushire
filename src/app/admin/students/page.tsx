@@ -230,3 +230,4 @@ export default function AdminStudentsPage() {
     </DashboardLayout>
   );
 }
+

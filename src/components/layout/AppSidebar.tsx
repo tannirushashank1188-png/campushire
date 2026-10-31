@@ -202,3 +202,4 @@ export function AppSidebar({ className, onNavigate }: AppSidebarProps) {
     </aside>
   );
 }
+

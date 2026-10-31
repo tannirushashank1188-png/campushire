@@ -269,3 +269,4 @@ CREATE POLICY "Recruiters and admins can update applications"
       SELECT 1 FROM public.profiles WHERE profiles.user_id = auth.uid() AND profiles.role = 'admin'
     )
   );
+

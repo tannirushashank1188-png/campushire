@@ -83,3 +83,4 @@ console.assert(partialProfileScore < 50, `Expected < 50%, got ${partialProfileSc
 console.log(`✓ Profile calculation verified (Full: ${fullProfileScore}%, Partial: ${partialProfileScore}%).`);
 
 console.log("\n=== ALL AUTOMATED TESTS PASSED SUCCESSFULLY! ===");
+

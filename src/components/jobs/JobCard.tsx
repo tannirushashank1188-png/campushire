@@ -234,3 +234,4 @@ export function JobCard({ job, onApplySuccess }: JobCardProps) {
     </>
   );
 }
+

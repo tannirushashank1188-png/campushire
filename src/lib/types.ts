@@ -128,3 +128,4 @@ export type JobSortOption =
   | "title_asc"
   | "company_asc"
   | "deadline_asc";
+

@@ -72,3 +72,4 @@ export function ApplicationStatusBadge({
     </span>
   );
 }
+
